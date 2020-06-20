@@ -1,22 +1,21 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Jerry Lou
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Keep it simple and stupid
 
 # Your name to show in the footer
-author: Some Person
+author: Jerry Lou
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - LinkedIn: "https://https://www.linkedin.com/in/jerry-lou/"
+  Author's home: "https://yuanfulou.github.io"
 
 # --- Logo --- #
 
@@ -38,13 +37,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "yuan-fu@shipt.com"
+  facebook: yuanfu.lou
+  github: yuanfulou
+  twitter: yuanfulou
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: jerry-lou
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -166,7 +165,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Los_Angele"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
